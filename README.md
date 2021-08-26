@@ -1,4 +1,4 @@
-# Pre-processing-of-Housing Market dataset
+# Pre-processing of Housing Market dataset
 
 The dataset is available for download [here](https://www.kaggle.com/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv). Among the 21 features(both categorical and numerical) in the dataset some are Address, Type of Real Estate, Suburb, Method of selling, Rooms, Price, Real Estate Agent, Date of sale, and Distance from C.B.D. The dataset contains a large number of NULL values that must be dealt with before any analysis can be performed. The first step in data analysis is to clean the data. The missing/NULL values in the dataset are handled using the pandas library's functions.
 
