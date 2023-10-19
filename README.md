@@ -1,5 +1,5 @@
-The dataset is available for download [here](https://www.kaggle.com/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv). The dataset contains a large number of NULL values that must be dealt with before any analysis can be performed. The first step in data analysis is to clean the data. The missing/NULL values in the dataset are handled using the pandas library's functions. Further encoding is done to handle different types of categorical attributes and detection and removal of outliers.
-
+The dataset contains a large number of NULL values that must be dealt with before any analysis can be performed. The first step in data analysis is to clean the data. The missing/NULL values in the dataset are handled using the pandas library's functions. Further encoding is done to handle different types of categorical attributes followed by detection and removal of outliers.<br>
+[Dataset](https://www.kaggle.com/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv) <br>
 ### Attributes
 1. Suburb: Suburb
 2. Address: Address
